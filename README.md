@@ -74,7 +74,7 @@ Check out what type of content is uploaded the most.
 
 ## 📈 Overall Content Release Trend  
 
-![Content Release Trend](EDA images/disney_release_trend.png)  
+![image](https://github.com/user-attachments/assets/483608dc-5d48-4dab-bdc6-6024433f1dd2)
 
 > ⏳ **Insight:** Steady growth since 2007 means Disney+ is expanding its library and audience consistently.
 
