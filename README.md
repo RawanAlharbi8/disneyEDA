@@ -86,7 +86,7 @@ Check out what type of content is uploaded the most.
 
 ## 🎥 Who Released More? Movies vs TV Shows Over Time  
 
-![Movies vs TV Shows](EDA images/Who Released More_ Movies vs TV Shows Over Time.png)  
+(EDA images/Who Released More_ Movies vs TV Shows Over Time.png)  
 
 > 🎞️ **Idea:** Analyze release patterns to identify marketing opportunities or content gaps.
 
