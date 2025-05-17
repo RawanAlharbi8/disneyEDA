@@ -1,12 +1,12 @@
 # 🏰 Disney+ Data Deep Dive 📊  
-Ever wondered what kind of content rules the magical kingdom of Disney+? Is it movies or TV shows? Action or Animation? Released in summer or stacked up in December? I took a dataset of Disney+ titles and turned it into a colorful, analytical adventure — and yes, even Mickey would approve.
+Ever wondered if Disney+ is breaking out of its classic “family-friendly” bubble?
+Are they hitting big in other genres like Action, Drama, or Comedy? And where in the world are these different stories shining the most?  I took a dataset of Disney+ titles and turned it into a colorful, analytical adventure — and yes, even Mickey would approve.
 
 ---
 
 ## 🎯 Why This Project?
 Think of this analysis as a sneak peek into Disney’s streaming brain. By digging into genres, release trends, durations, and more — we don’t just see what’s on Disney+, we start asking *why* it's there and *what to do next*.  
 
-So… could Disney use this as a business plan? Absolutely! Here's how 👇
 
 ---
 
@@ -18,11 +18,11 @@ Spoiler: Movies win in sheer volume.
 🧠 *Business angle:* If TV Show watch time is higher per user, Disney might benefit from investing more in episodic content with longer lifespans.
 
 ### 🌎 What’s Hot and Where?
-**Top genres per country** show that content taste varies globally. For example, “Family” and “Animation” dominate the U.S., while “Drama” might be huge in other regions.  
+**Top genres per country** show that content taste varies globally. For example, “Family” and “Animation” dominate the U.S., while “action” might be huge in other regions.  
 🧠 *Business angle:* Localization and region-targeted content creation = happier subscribers = more retention!
 
 ### 🎬 Genre Royalty
-**Most common genre?** "Family" — which honestly, tracks.  
+**Most common genre?** "Family" — which honestly, obvious.  
 🧠 *Business angle:* Leaning into the “family-first” brand identity keeps Disney unique in the crowded streaming market.
 
 ### 📈 Content Over Time
@@ -90,24 +90,18 @@ Check out what type of content is uploaded the most.
 
 ## 🕒 Movie Duration Distribution  
 
-![Movie Duration](EDA images/movie_duration.png)  
+![image](https://github.com/user-attachments/assets/e63bce60-e614-4b10-aff8-729688111fd5)
 
-> 🍿 **Fun Fact:** Most movies hover around 90 minutes, perfect for a cozy movie night!
-
----
+>  **Fun Fact:** Most movies hover around 90 minutes, perfect for a cozy movie night!
 
 ---
 
-## 🧙‍♀️ What’s Next?
-This could totally be extended with:
-- Viewership or engagement data
-- Sentiment analysis on descriptions
-- Recommendation system prototypes
+---
+
 
 ---
 
 ## 💡 Final Thoughts
 Disney+ is more than just a streaming service — it’s a story machine. And like any good story, knowing your audience is key. This project helps uncover patterns that Disney could turn into smart, magical decisions.  
 
-> So… Mickey, if you’re reading this, call me. I’ve got ideas. 😉
 
