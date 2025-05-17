@@ -1,4 +1,4 @@
-# 🏰 Disney+ Data Deep Dive 📊  
+# 🏰 Disney+ EDA 📊  
 Ever wondered if Disney+ is breaking out of its classic “family-friendly” bubble?
 Are they hitting big in other genres like Action, Drama, or Comedy? And where in the world are these different stories shining the most?  I took a dataset of Disney+ titles and turned it into a colorful, analytical adventure — and yes, even Mickey would approve.
 
