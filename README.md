@@ -66,7 +66,7 @@ Check out what type of content is uploaded the most.
 
 ## 📺 Top TV Show Genre per Country on Disney+  
 
-![Top TV Genres](EDA images/top_tv_genre_per_country.png)  
+![image](https://github.com/user-attachments/assets/e986c154-8e28-40b5-8668-99a44c25749c)
 
 > 🤔 **Business Idea:** Tailor TV content to fit regional preferences and boost subscriptions.
 
