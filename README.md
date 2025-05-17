@@ -46,7 +46,7 @@ TV shows are mostly short-seasoned, while most movies stay within 90–100 minut
 ## 📦 Total Content on Disney+  
 Check out what type of content is uploaded the most.
 
-![image](https://github.com/user-attachments/assets/b4c876c6-c177-4e2c-87b7-4e234ad4379b)
+![image](https://github.com/user-attachments/assets/03a40704-9dbd-48ca-820f-a2f52039063d)
 
 ## 🍿 What Type of Content is Uploaded More on Disney+?  
 ![image](https://github.com/user-attachments/assets/b4c876c6-c177-4e2c-87b7-4e234ad4379b)
